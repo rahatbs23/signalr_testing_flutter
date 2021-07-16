@@ -30,6 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   signalr_core: ^1.1.1
   universal_io: ^2.0.4
+  flutter_background: ^1.0.0
+  wakelock: ^0.5.2
 
 dev_dependencies:
   flutter_test:
